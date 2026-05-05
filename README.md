@@ -174,14 +174,3 @@ Each alert should show:
 ### Running Locally
 
 ```bash
-npm install
-npm run dev
-```
-
-## Framework
-
-This project uses **React**.
-
-## License
-
-MIT
