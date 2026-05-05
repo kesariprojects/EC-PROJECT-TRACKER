@@ -1,7 +1,7 @@
 /* __imports_rewritten__ */
 import React from 'https://esm.sh/react@19.2.0';
 import { html } from './jsx.js';
-import { seedProjects, createSteps } from './data/sampleData.js';
+import { seedProjects, createSteps } from './sampleData.js';
 
 const AppContext = React.createContext(null);
 const ADMIN_CODE = 'ADMIN@KESARI001';
